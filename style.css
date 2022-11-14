@@ -720,7 +720,7 @@ ul li div{
     display: block;
  }
 
-@media (max-width:786px){
+ @media (max-width:786px){
     .change{
         height: 100vh;
     }
@@ -757,7 +757,7 @@ ul li div{
     }
     .data{
        display: block;
-       height: 150vh;
+       height: 125vh;
     }
     
     .info{
@@ -767,12 +767,14 @@ ul li div{
     .info-1{
         display: block;
         padding: 60px 0;
+        width: 100%;
     }
     .range{
         padding: 15px 25px;
+        width: 90%;
     }
     .custom-range{
-        width: 420px;
+        width: 95%;
     }
     label span{
         padding-right: 20px;
@@ -803,7 +805,7 @@ ul li div{
     height: 200vh;
 }
 .news{
-    height: 240vh;
+    height: 200vh;
 }
 .tips{
     flex-direction: column;
@@ -826,10 +828,10 @@ ul li div{
     transform: rotate(90deg);
   }
   .find-us{
-    height: 180vh;
+    height: 150vh;
   }
   .contact{
-    width: 80%;
+    width: 70%;
   }
   footer{
     height: 250vh;
